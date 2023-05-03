@@ -1,1 +1,1 @@
-First website with Odin
+First basic website with Odin, the journey begins.
